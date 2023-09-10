@@ -17,6 +17,15 @@ pip install smart_pdf
 ## Install the latest version
 
 ```bash
+git clone https://github.com/bes-dev/smart_pdf.git
+cd smart_pdf
+pip install -r requirements.txt
+pip install .
+```
+
+## Install the latest version
+
+```bash
 git clone https://github.com/bes-dev/random_face.git
 cd random_face
 pip install -r requirements.txt

@@ -2,6 +2,10 @@
 
 A simple python library for AI-powered PDF documents processing.
 
+[![Downloads](https://pepy.tech/badge/smart-pdf)](https://pepy.tech/project/smart-pdf)
+[![Downloads](https://pepy.tech/badge/smart-pdf/month)](https://pepy.tech/project/smart-pdf)
+[![Downloads](https://pepy.tech/badge/smart-pdf/week)](https://pepy.tech/project/smart-pdf)
+
 ## Requirements
 
 * Linux, Windows, MacOS

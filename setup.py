@@ -22,7 +22,7 @@ VERSION = '2023.09.11.0'
 requirements = [
     'openai==0.27.6',
     'langchain==0.0.285',
-    'PyPDF2==3.0.1',
+    'pypdf==3.16.0',
     'tiktoken==0.4.0',
     'faiss-cpu==1.7.3'
 ]

@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 # PDF parser
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 # openai
 import openai
 # langchain

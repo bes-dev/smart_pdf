@@ -17,7 +17,7 @@ from setuptools import setup, find_packages
 
 readme = open('README.md').read()
 
-VERSION = '2023.09.11.0'
+VERSION = '2023.09.11.1'
 
 requirements = [
     'openai==0.27.6',
